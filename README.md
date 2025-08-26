@@ -54,8 +54,8 @@ Other commands that can be used include:
 - `gator unfollow <url>` - Unfollow a feed that already exists in the database
 
 Dev vs Prod:
-Development: go run .
-Production: gator
+* Development: go run .
+* Production: gator
 
 # Publish 
 https://github.com/Alford05/Gator
